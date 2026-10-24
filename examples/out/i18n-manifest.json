@@ -1,0 +1,30 @@
+{
+  "source": "examples/wordlist.json",
+  "slug": "virtual-pictionary",
+  "languages": {
+    "es": {
+      "file": "virtual-pictionary.es.json",
+      "words": 16,
+      "untranslated": 0,
+      "coverage_pct": 100.0
+    },
+    "de": {
+      "file": "virtual-pictionary.de.json",
+      "words": 16,
+      "untranslated": 0,
+      "coverage_pct": 100.0
+    },
+    "fr": {
+      "file": "virtual-pictionary.fr.json",
+      "words": 16,
+      "untranslated": 0,
+      "coverage_pct": 100.0
+    },
+    "pt": {
+      "file": "virtual-pictionary.pt.json",
+      "words": 16,
+      "untranslated": 0,
+      "coverage_pct": 100.0
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# pictionary-i18n-generator uses only the Python standard library
+# (argparse, json, re) — no third-party dependencies.

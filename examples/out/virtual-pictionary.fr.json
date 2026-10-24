@@ -1,0 +1,122 @@
+{
+  "slug": "virtual-pictionary",
+  "language": "fr",
+  "source_language": "en",
+  "title": "Virtual Pictionary — Free Drawing Prompt List",
+  "words": [
+    {
+      "word": "chat",
+      "category": "animals",
+      "difficulty": "easy",
+      "original_word": "cat",
+      "untranslated": false
+    },
+    {
+      "word": "chien",
+      "category": "animals",
+      "difficulty": "easy",
+      "original_word": "dog",
+      "untranslated": false
+    },
+    {
+      "word": "éléphant",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "elephant",
+      "untranslated": false
+    },
+    {
+      "word": "tigre",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "tiger",
+      "untranslated": false
+    },
+    {
+      "word": "manchot",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "penguin",
+      "untranslated": false
+    },
+    {
+      "word": "requin",
+      "category": "animals",
+      "difficulty": "hard",
+      "original_word": "shark",
+      "untranslated": false
+    },
+    {
+      "word": "maison",
+      "category": "objects",
+      "difficulty": "easy",
+      "original_word": "house",
+      "untranslated": false
+    },
+    {
+      "word": "parapluie",
+      "category": "objects",
+      "difficulty": "medium",
+      "original_word": "umbrella",
+      "untranslated": false
+    },
+    {
+      "word": "appareil photo",
+      "category": "objects",
+      "difficulty": "medium",
+      "original_word": "camera",
+      "untranslated": false
+    },
+    {
+      "word": "guitare",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "guitar",
+      "untranslated": false
+    },
+    {
+      "word": "vélo",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "bicycle",
+      "untranslated": false
+    },
+    {
+      "word": "avion",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "airplane",
+      "untranslated": false
+    },
+    {
+      "word": "Noël",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "christmas",
+      "untranslated": false
+    },
+    {
+      "word": "Halloween",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "halloween",
+      "untranslated": false
+    },
+    {
+      "word": "bonhomme de neige",
+      "category": "holiday",
+      "difficulty": "medium",
+      "original_word": "snowman",
+      "untranslated": false
+    },
+    {
+      "word": "anniversaire",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "birthday",
+      "untranslated": false
+    }
+  ],
+  "untranslated_count": 0,
+  "coverage_pct": 100.0
+}

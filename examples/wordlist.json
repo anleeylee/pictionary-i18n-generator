@@ -1,0 +1,23 @@
+{
+  "slug": "virtual-pictionary",
+  "language": "en",
+  "title": "Virtual Pictionary — Free Drawing Prompt List",
+  "words": [
+    {"word": "cat", "category": "animals", "difficulty": "easy"},
+    {"word": "dog", "category": "animals", "difficulty": "easy"},
+    {"word": "elephant", "category": "animals", "difficulty": "medium"},
+    {"word": "tiger", "category": "animals", "difficulty": "medium"},
+    {"word": "penguin", "category": "animals", "difficulty": "medium"},
+    {"word": "shark", "category": "animals", "difficulty": "hard"},
+    {"word": "house", "category": "objects", "difficulty": "easy"},
+    {"word": "umbrella", "category": "objects", "difficulty": "medium"},
+    {"word": "camera", "category": "objects", "difficulty": "medium"},
+    {"word": "guitar", "category": "objects", "difficulty": "hard"},
+    {"word": "bicycle", "category": "objects", "difficulty": "hard"},
+    {"word": "airplane", "category": "objects", "difficulty": "hard"},
+    {"word": "christmas", "category": "holiday", "difficulty": "easy"},
+    {"word": "halloween", "category": "holiday", "difficulty": "easy"},
+    {"word": "snowman", "category": "holiday", "difficulty": "medium"},
+    {"word": "birthday", "category": "holiday", "difficulty": "easy"}
+  ]
+}

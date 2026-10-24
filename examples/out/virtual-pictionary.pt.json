@@ -1,0 +1,122 @@
+{
+  "slug": "virtual-pictionary",
+  "language": "pt",
+  "source_language": "en",
+  "title": "Virtual Pictionary — Free Drawing Prompt List",
+  "words": [
+    {
+      "word": "gato",
+      "category": "animals",
+      "difficulty": "easy",
+      "original_word": "cat",
+      "untranslated": false
+    },
+    {
+      "word": "cachorro",
+      "category": "animals",
+      "difficulty": "easy",
+      "original_word": "dog",
+      "untranslated": false
+    },
+    {
+      "word": "elefante",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "elephant",
+      "untranslated": false
+    },
+    {
+      "word": "tigre",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "tiger",
+      "untranslated": false
+    },
+    {
+      "word": "pinguim",
+      "category": "animals",
+      "difficulty": "medium",
+      "original_word": "penguin",
+      "untranslated": false
+    },
+    {
+      "word": "tubarão",
+      "category": "animals",
+      "difficulty": "hard",
+      "original_word": "shark",
+      "untranslated": false
+    },
+    {
+      "word": "casa",
+      "category": "objects",
+      "difficulty": "easy",
+      "original_word": "house",
+      "untranslated": false
+    },
+    {
+      "word": "guarda-chuva",
+      "category": "objects",
+      "difficulty": "medium",
+      "original_word": "umbrella",
+      "untranslated": false
+    },
+    {
+      "word": "câmera",
+      "category": "objects",
+      "difficulty": "medium",
+      "original_word": "camera",
+      "untranslated": false
+    },
+    {
+      "word": "violão",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "guitar",
+      "untranslated": false
+    },
+    {
+      "word": "bicicleta",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "bicycle",
+      "untranslated": false
+    },
+    {
+      "word": "avião",
+      "category": "objects",
+      "difficulty": "hard",
+      "original_word": "airplane",
+      "untranslated": false
+    },
+    {
+      "word": "Natal",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "christmas",
+      "untranslated": false
+    },
+    {
+      "word": "Halloween",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "halloween",
+      "untranslated": false
+    },
+    {
+      "word": "boneco de neve",
+      "category": "holiday",
+      "difficulty": "medium",
+      "original_word": "snowman",
+      "untranslated": false
+    },
+    {
+      "word": "aniversário",
+      "category": "holiday",
+      "difficulty": "easy",
+      "original_word": "birthday",
+      "untranslated": false
+    }
+  ],
+  "untranslated_count": 0,
+  "coverage_pct": 100.0
+}
